@@ -1,2 +1,2 @@
 # tech_news_
-web app which provides with various tech news around the world
+ai assistant web app which provides with various tech news around the world
